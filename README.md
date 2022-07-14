@@ -1,4 +1,5 @@
-https://dev.azure.com/VGIT-Services/demos/_apis/build/status/paynetechnologies.pipelines-java?branchName=main
+[![Build Status](https://dev.azure.com/VGIT-Services/demos/_apis/build/status/paynetechnologies.pipelines-java?branchName=main)](https://dev.azure.com/VGIT-Services/demos/_build/latest?definitionId=22&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
